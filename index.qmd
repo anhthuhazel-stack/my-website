@@ -1,0 +1,25 @@
+---
+title: "Anh Le"
+subtitle: "Business Analytics Senior at USF"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: profile.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/anhthuhazel-stack
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/thu-hazel-le/
+---
+
+A little bit about me and my life! I'm currently a senior and I aspire to be a data analyst in the future!
+
+## Education
+
+University of SF \| Location \| Sept 2023 - June 2027
+
+## Experience
+
+Company A \| Data Analyst Intern \| April 2026 - present
